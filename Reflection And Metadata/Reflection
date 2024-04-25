@@ -1,0 +1,8 @@
+
+# Key aspects of reflection in C# include:
+
+Type Information: You can retrieve information about a type,
+such as its name, namespace, methods, properties, fields, events, and more.
+Instantiation: You can create an instance of a type dynamically at runtime using the Activator.CreateInstance method.
+Method Invocation: You can invoke methods on an object dynamically, even if you don't know the method at compile time, using the Invoke method.
+Property and Field Access: You can get and set the values of properties and fields dynamically.
